@@ -162,5 +162,37 @@ public class CashInModel {
         }
         return content;
     }
+    public String getBalance(String mid,String mzalopayid) {
+        String content;
+        int ret = AppConst.ERROR_GENERIC;
+        try {
+            long currentTime = CommonFunction.getCurrentDateTimeNum();
+            if(mid.isEmpty()){
+                mid = AppConst.MID;
+            }
+            if(mzalopayid.isEmpty()){
+                mzalopayid = AppConst.M_ZALOPAY_ID;
+            }
+            String reqdate = String.valueOf(currentTime);
+            String hmac = HMACUtil.HMacHexStringEncode("HmacSHA256", AppConst.HMAC_SHA256_KEY,
+                            mid + "|" +
+                            mzalopayid + "|" +
+                            reqdate);
+            
+            Map<String, String> params = new HashMap<String, String>();
+            params.put("mid", mid);
+            params.put("mzalopayid", mzalopayid);
+            params.put("time", reqdate);
+            params.put("mac", hmac);
+            logger.info(params);
+            String getStatusUrl = serverUrl + "getbalance";
+            String rs = HttpHelper.sendHttpPostFormData(getStatusUrl, params, 10000);
+            content = rs;
+        } catch (IOException ex) {
+            java.util.logging.Logger.getLogger(CashInModel.class.getName()).log(Level.SEVERE, null, ex);
+            content = CommonModel.FormatResponseFromZp(ret, ex.getMessage());
+        }
+        return content;
+    }
     
 }

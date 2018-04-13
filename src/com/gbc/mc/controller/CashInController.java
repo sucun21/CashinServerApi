@@ -60,6 +60,9 @@ public class CashInController extends HttpServlet {
             case "transfercashbytype":
                 content = transfercashtype(req, data);
                 break;
+            case "getbalance":
+                content=getbalance(req,data);
+                break;
         }
         CommonModel.out(content, resp);
     }
@@ -123,6 +126,27 @@ public class CashInController extends HttpServlet {
             }
         } catch (Exception ex) {
             logger.error(getClass().getSimpleName() + ".transfercashtype: " + ex.getMessage(), ex);
+            content = CommonModel.FormatResponse(ret, ex.getMessage());
+        }
+        return content;
+    }
+    
+     private String getbalance(HttpServletRequest req, String data) {
+        String content = null;
+        int ret = AppConst.ERROR_GENERIC;
+        try {
+            JsonObject jsonObject = JsonParserUtil.parseJsonObject(data);
+            String mid="";
+            String zpid="";
+            if(jsonObject.has("mid")){
+                mid = jsonObject.get("mid").getAsString();
+            }
+            if(jsonObject.has("zpid")){
+               zpid = jsonObject.get("zpid").getAsString();
+            }
+            content = CashInModel.getInstance().getBalance(mid, zpid);
+        } catch (Exception ex) {
+            logger.error(getClass().getSimpleName() + ".getbalance: " + ex.getMessage(), ex);
             content = CommonModel.FormatResponse(ret, ex.getMessage());
         }
         return content;

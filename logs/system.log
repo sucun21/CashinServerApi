@@ -6513,3 +6513,199 @@ java.lang.NullPointerException
 2018-04-12 18:22:15  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
 2018-04-12 18:22:16  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
 2018-04-12 18:22:16  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 14:50:31  INFO log:192 - Logging initialized @292ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 14:50:31  INFO WebServer:58 - Start server...
+2018-04-13 14:50:31  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 14:50:31  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 14:50:31  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:50:31  INFO Server:444 - Started @530ms
+2018-04-13 14:51:40  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 14:51:40  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 14:51:40  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 14:52:41  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 14:52:41  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:52:41  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 14:52:43  INFO log:192 - Logging initialized @209ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 14:52:43  INFO WebServer:58 - Start server...
+2018-04-13 14:52:43  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 14:52:43  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 14:52:43  INFO AbstractConnector:280 - Started ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:52:43  INFO Server:444 - Started @407ms
+2018-04-13 14:52:54  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 14:52:54  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 14:52:54  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 14:53:11  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 14:53:11  INFO AbstractConnector:320 - Stopped ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:53:11  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 14:53:14  INFO log:192 - Logging initialized @389ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 14:53:14  INFO WebServer:58 - Start server...
+2018-04-13 14:53:14  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 14:53:14  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@64c0a067{/,null,AVAILABLE}
+2018-04-13 14:53:14  INFO AbstractConnector:280 - Started ServerConnector@6670c397{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:53:14  INFO Server:444 - Started @741ms
+2018-04-13 14:53:20  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 14:53:20  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 14:53:20  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 14:53:58  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 14:53:58  INFO AbstractConnector:320 - Stopped ServerConnector@6670c397{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:53:58  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@64c0a067{/,null,UNAVAILABLE}
+2018-04-13 14:54:02  INFO log:192 - Logging initialized @249ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 14:54:02  INFO WebServer:58 - Start server...
+2018-04-13 14:54:02  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 14:54:02  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 14:54:02  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:54:02  INFO Server:444 - Started @436ms
+2018-04-13 14:54:11  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 14:54:11  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 14:54:11  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 14:59:48  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 14:59:48  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:59:48  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 14:59:52  INFO log:192 - Logging initialized @216ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 14:59:52  INFO WebServer:58 - Start server...
+2018-04-13 14:59:52  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 14:59:52  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 14:59:52  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 14:59:52  INFO Server:444 - Started @377ms
+2018-04-13 14:59:59  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 14:59:59  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 14:59:59  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 14:59:59  INFO CashInModel:187 - {mid=14, mzalopayid=160708000000502, time=1523606399364, mac=e267c84bd27c979e5f80cd4d8fc3f82764213fbef4f7dbe718670697dbba7d17}
+2018-04-13 15:07:26  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 15:07:26  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:07:26  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 15:07:29  INFO log:192 - Logging initialized @267ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 15:07:29  INFO WebServer:58 - Start server...
+2018-04-13 15:07:29  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 15:07:29  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@4d421ba0{/,null,AVAILABLE}
+2018-04-13 15:07:29  INFO AbstractConnector:280 - Started ServerConnector@3c0815c7{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:07:29  INFO Server:444 - Started @459ms
+2018-04-13 15:07:33  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:07:33  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:07:33  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:07:33  INFO CashInModel:187 - {mid=7, mzalopayid=160527000000002, time=1523606853527, mac=e4badeb97860165f773a196d6325e2173a48a5f7c1c9d6e4ebadc711d60b3b96}
+2018-04-13 15:12:36  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 15:12:36  INFO AbstractConnector:320 - Stopped ServerConnector@3c0815c7{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:12:36  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@4d421ba0{/,null,UNAVAILABLE}
+2018-04-13 15:12:39  INFO log:192 - Logging initialized @314ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 15:12:39  INFO WebServer:58 - Start server...
+2018-04-13 15:12:39  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 15:12:39  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@216a33d9{/,null,AVAILABLE}
+2018-04-13 15:12:39  INFO AbstractConnector:280 - Started ServerConnector@19bbac3{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:12:39  INFO Server:444 - Started @509ms
+2018-04-13 15:12:47  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:12:47  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:12:47  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:12:47  INFO CashInModel:187 - {mid=1, mzalopayid=161109000000001, time=1523607167177, mac=56db4109a2477b16e2c6ef435d979cda0b79fafd672bec387934a3c8154bef75}
+2018-04-13 15:16:25  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:16:25  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:16:25  INFO CashInController:54 - CashInController.processs, data:       
+2018-04-13 15:16:25 ERROR CashInController:157 - CashInController.transfercashtype: null
+java.lang.NullPointerException
+	at com.gbc.mc.controller.CashInController.getbalance(CashInController.java:144)
+	at com.gbc.mc.controller.CashInController.processs(CashInController.java:64)
+	at com.gbc.mc.controller.CashInController.handle(CashInController.java:41)
+	at com.gbc.mc.controller.CashInController.doGet(CashInController.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:841)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:543)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:188)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1228)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:168)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:481)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:166)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1130)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerList.handle(HandlerList.java:52)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.eclipse.jetty.server.Server.handle(Server.java:564)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:320)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:251)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:279)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:112)
+	at org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:124)
+	at org.eclipse.jetty.util.thread.Invocable.invokePreferred(Invocable.java:122)
+	at org.eclipse.jetty.util.thread.strategy.ExecutingExecutionStrategy.invoke(ExecutingExecutionStrategy.java:58)
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceConsume(ExecuteProduceConsume.java:201)
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:133)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:672)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:590)
+	at java.lang.Thread.run(Thread.java:748)
+2018-04-13 15:16:30  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:16:30  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:16:30  INFO CashInController:54 - CashInController.processs, data:       
+2018-04-13 15:16:30 ERROR CashInController:157 - CashInController.transfercashtype: null
+java.lang.NullPointerException
+	at com.gbc.mc.controller.CashInController.getbalance(CashInController.java:144)
+	at com.gbc.mc.controller.CashInController.processs(CashInController.java:64)
+	at com.gbc.mc.controller.CashInController.handle(CashInController.java:41)
+	at com.gbc.mc.controller.CashInController.doGet(CashInController.java:31)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:841)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:543)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:188)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1228)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:168)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:481)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:166)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1130)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerList.handle(HandlerList.java:52)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.eclipse.jetty.server.Server.handle(Server.java:564)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:320)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:251)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:279)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:112)
+	at org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:124)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:672)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:590)
+	at java.lang.Thread.run(Thread.java:748)
+2018-04-13 15:16:35  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:16:35  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:16:35  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:16:35  INFO CashInModel:187 - {mid=1, mzalopayid=161109000000001, time=1523607395066, mac=65f354d62dc45e02417fe18379439b70bed0be9ec0ae34e3d67594e10434cb87}
+2018-04-13 15:18:46  INFO log:192 - Logging initialized @282ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 15:18:46  INFO WebServer:58 - Start server...
+2018-04-13 15:18:46  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 15:18:46  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 15:18:46 ERROR WebServer:71 - Cannot start web server: Address already in use
+2018-04-13 15:18:46  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 15:18:46  INFO AbstractConnector:320 - Stopped ServerConnector@7f163192{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:18:46  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 15:18:49  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 15:18:49  INFO AbstractConnector:320 - Stopped ServerConnector@19bbac3{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:18:49  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@216a33d9{/,null,UNAVAILABLE}
+2018-04-13 15:18:50  INFO log:192 - Logging initialized @221ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 15:18:50  INFO WebServer:58 - Start server...
+2018-04-13 15:18:50  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 15:18:50  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 15:18:50  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:18:50  INFO Server:444 - Started @380ms
+2018-04-13 15:18:55  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:18:55  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:18:55  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:18:55  INFO CashInModel:187 - {mid=1, mzalopayid=161109000000001, time=1523607535658, mac=f0d812100ca4fe3c1927a601d398d60b6eae2a1ad0d63e742fb9ef80b32ac67d}
+2018-04-13 15:26:40  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-13 15:26:40  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:26:40  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-13 15:26:52  INFO log:192 - Logging initialized @240ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-13 15:26:52  INFO WebServer:58 - Start server...
+2018-04-13 15:26:52  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-13 15:26:52  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-13 15:26:52  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-13 15:26:52  INFO Server:444 - Started @406ms
+2018-04-13 15:27:14  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:27:14  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:27:14  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:27:14  INFO CashInModel:187 - {mid=14, mzalopayid=160708000000502, time=1523608034666, mac=ee2b0a11534b7899d029bf8fe424d8b1a5dd11581058d5259a20fdc364bcb5f4}
+2018-04-13 15:43:31  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:43:31  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:43:31  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:43:31  INFO CashInModel:187 - {mid=14, mzalopayid=160708000000502, time=1523609011038, mac=365133d1e8f8678a989673d6eee9277a07eeec032be7f51bfbe7e983492ce308}
+2018-04-13 15:53:47  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-13 15:53:47  INFO CashInController:53 - CashInController.processs, cmd:        getbalance
+2018-04-13 15:53:47  INFO CashInController:54 - CashInController.processs, data:       {}
+2018-04-13 15:53:47  INFO CashInModel:187 - {mid=14, mzalopayid=160708000000502, time=1523609627606, mac=91604b44ece41f72a40a46ed23a25daef32323e5fe248a6abbb58d1ab75e3156}
