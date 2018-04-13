@@ -6250,3 +6250,266 @@ java.lang.NullPointerException
 2018-04-11 18:49:28  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
 2018-04-11 18:49:28  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
 2018-04-11 18:49:28  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-12 15:21:43  INFO log:192 - Logging initialized @525ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:21:43  INFO WebServer:58 - Start server...
+2018-04-12 15:21:43  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:21:43  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-12 15:21:43  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:21:43  INFO Server:444 - Started @730ms
+2018-04-12 15:42:29  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:42:29  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:42:29  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:42:30  INFO ZaloPayUserModel:95 - { "returncode": -177, "returnmessage": "MID không tồn tại." }
+2018-04-12 15:43:23  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:43:23  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:43:23  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-12 15:43:26  INFO log:192 - Logging initialized @479ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:43:27  INFO WebServer:58 - Start server...
+2018-04-12 15:43:27  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:43:27  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-12 15:43:27  INFO AbstractConnector:280 - Started ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:43:27  INFO Server:444 - Started @767ms
+2018-04-12 15:43:33  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:43:33  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:43:33  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:43:33  INFO ZaloPayUserModel:95 - { "returncode": -177, "returnmessage": "MID không tồn tại." }
+2018-04-12 15:43:57  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:43:57  INFO AbstractConnector:320 - Stopped ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:43:57  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-12 15:44:10  INFO log:192 - Logging initialized @284ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:44:10  INFO WebServer:58 - Start server...
+2018-04-12 15:44:11  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:44:11  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-12 15:44:11  INFO AbstractConnector:280 - Started ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:44:11  INFO Server:444 - Started @608ms
+2018-04-12 15:44:19  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:44:19  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:44:19  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:44:21  INFO ZaloPayUserModel:95 - {"userid":"180405000003506","displayname":"Thinh Le Tan","avatar":"https://s120.avatar.talk.zdn.vn/7/8/f/0/2/120/db40246aaecf0616e5a1ed7bc26fc2c5.jpg","returncode":1,"returnmessage":"Giao dịch thành công"}
+2018-04-12 15:46:42  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:46:42  INFO AbstractConnector:320 - Stopped ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:46:42  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-12 15:46:45  INFO log:192 - Logging initialized @375ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:46:45  INFO WebServer:58 - Start server...
+2018-04-12 15:46:45  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:46:45  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-12 15:46:45  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:46:45  INFO Server:444 - Started @621ms
+2018-04-12 15:46:51  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:46:51  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:46:51  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:46:51  INFO ZaloPayUserModel:95 - { "returncode": -300, "returnmessage": "Quyền truy cập bị từ chối." }
+2018-04-12 15:48:01  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:48:01  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:48:01  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-12 15:48:39  INFO log:192 - Logging initialized @475ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:48:39  INFO WebServer:58 - Start server...
+2018-04-12 15:48:39  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:48:39  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@4d421ba0{/,null,AVAILABLE}
+2018-04-12 15:48:39  INFO AbstractConnector:280 - Started ServerConnector@3c0815c7{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:48:39  INFO Server:444 - Started @653ms
+2018-04-12 15:48:44  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:48:44  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:48:44  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:48:45  INFO ZaloPayUserModel:95 - { "returncode": -300, "returnmessage": "Quyền truy cập bị từ chối." }
+2018-04-12 15:50:00  INFO log:192 - Logging initialized @362ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:50:00  INFO WebServer:58 - Start server...
+2018-04-12 15:50:00  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:50:00  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@216a33d9{/,null,AVAILABLE}
+2018-04-12 15:50:00 ERROR WebServer:71 - Cannot start web server: Address already in use
+2018-04-12 15:50:00  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:50:00  INFO AbstractConnector:320 - Stopped ServerConnector@4bec2b33{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:50:00  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@216a33d9{/,null,UNAVAILABLE}
+2018-04-12 15:50:08  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:50:08  INFO AbstractConnector:320 - Stopped ServerConnector@3c0815c7{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:50:08  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@4d421ba0{/,null,UNAVAILABLE}
+2018-04-12 15:50:10  INFO log:192 - Logging initialized @279ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:50:10  INFO WebServer:58 - Start server...
+2018-04-12 15:50:10  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:50:10  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@4d421ba0{/,null,AVAILABLE}
+2018-04-12 15:50:10  INFO AbstractConnector:280 - Started ServerConnector@38871c01{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:50:10  INFO Server:444 - Started @493ms
+2018-04-12 15:50:20  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:50:20  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:50:20  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:50:21  INFO ZaloPayUserModel:95 - { "returncode": -177, "returnmessage": "MID không tồn tại." }
+2018-04-12 15:50:42  INFO log:192 - Logging initialized @250ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:50:42  INFO WebServer:58 - Start server...
+2018-04-12 15:50:42  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:50:42  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@4d421ba0{/,null,AVAILABLE}
+2018-04-12 15:50:42 ERROR WebServer:71 - Cannot start web server: Address already in use
+2018-04-12 15:50:42  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:50:42  INFO AbstractConnector:320 - Stopped ServerConnector@4bec2b33{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:50:42  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@4d421ba0{/,null,UNAVAILABLE}
+2018-04-12 15:50:50  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:50:50  INFO AbstractConnector:320 - Stopped ServerConnector@38871c01{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:50:50  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@4d421ba0{/,null,UNAVAILABLE}
+2018-04-12 15:50:54  INFO log:192 - Logging initialized @284ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:50:54  INFO WebServer:58 - Start server...
+2018-04-12 15:50:54  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:50:54  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@216a33d9{/,null,AVAILABLE}
+2018-04-12 15:50:54  INFO AbstractConnector:280 - Started ServerConnector@19bbac3{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:50:54  INFO Server:444 - Started @452ms
+2018-04-12 15:51:02  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:51:02  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:51:02  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:51:03  INFO ZaloPayUserModel:95 - { "returncode": -177, "returnmessage": "MID không tồn tại." }
+2018-04-12 15:51:18  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 15:51:18  INFO AbstractConnector:320 - Stopped ServerConnector@19bbac3{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:51:18  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@216a33d9{/,null,UNAVAILABLE}
+2018-04-12 15:51:23  INFO log:192 - Logging initialized @378ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 15:51:23  INFO WebServer:58 - Start server...
+2018-04-12 15:51:23  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 15:51:23  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@4d421ba0{/,null,AVAILABLE}
+2018-04-12 15:51:23  INFO AbstractConnector:280 - Started ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 15:51:23  INFO Server:444 - Started @680ms
+2018-04-12 15:51:40  INFO ZaloPayUserController:50 - ZaloPayUserController.processs, pathInfo:  
+2018-04-12 15:51:40  INFO ZaloPayUserController:51 - ZaloPayUserController.processs, cmd:       getzalopayuserinfobyphone
+2018-04-12 15:51:40  INFO ZaloPayUserController:52 - ZaloPayUserController.processs, data:      {"phone_number":"0976665272"}
+2018-04-12 15:51:41  INFO ZaloPayUserModel:95 - {"userid":"180405000003506","displayname":"Thinh Le Tan","avatar":"https://s120.avatar.talk.zdn.vn/7/8/f/0/2/120/db40246aaecf0616e5a1ed7bc26fc2c5.jpg","returncode":1,"returnmessage":"Giao dịch thành công"}
+2018-04-12 17:28:32  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 17:28:32  INFO AbstractConnector:320 - Stopped ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:28:32  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@4d421ba0{/,null,UNAVAILABLE}
+2018-04-12 17:28:35  INFO log:192 - Logging initialized @238ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 17:28:35  INFO WebServer:58 - Start server...
+2018-04-12 17:28:35  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 17:28:35  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@4d421ba0{/,null,AVAILABLE}
+2018-04-12 17:28:35  INFO AbstractConnector:280 - Started ServerConnector@3c0815c7{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:28:35  INFO Server:444 - Started @467ms
+2018-04-12 17:29:03  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 17:29:03  INFO AbstractConnector:320 - Stopped ServerConnector@3c0815c7{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:29:03  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@4d421ba0{/,null,UNAVAILABLE}
+2018-04-12 17:29:07  INFO log:192 - Logging initialized @338ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 17:29:07  INFO WebServer:58 - Start server...
+2018-04-12 17:29:07  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 17:29:07  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@216a33d9{/,null,AVAILABLE}
+2018-04-12 17:29:07  INFO AbstractConnector:280 - Started ServerConnector@19bbac3{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:29:07  INFO Server:444 - Started @515ms
+2018-04-12 17:29:20  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-12 17:29:20  INFO CashInController:53 - CashInController.processs, cmd:        transfercashbytype
+2018-04-12 17:29:20  INFO CashInController:54 - CashInController.processs, data:       {"reciever":"0976665272","amount":"1000","transfer_type":"3","machine_name":"VNG"}
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:29:20  INFO local:839 - local: Created a new connection
+2018-04-12 17:29:20  INFO CashInModel:89 - {mtransid=180412_7_1804120001, amount=1000, receiver=0976665272, mid=7, description=Chuyen tien test, mzalopayid=160708000000502, mzalopaypin=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92, reqdate=1523528960439, type=3, mac=a0bfa3cebd58a74042884459c99cafa12f7bc6a4868aaba39609eb726022bd3b}
+2018-04-12 17:29:20  INFO CashInModel:91 - url: https://zalopay.com.vn/cimerchant/transfercashbytype
+2018-04-12 17:29:20  INFO CashInModel:94 - {"zptransid":0,"isprocessing":false,"returncode":-179,"returnmessage":"Merchant chưa cấu hình zalopayid."}
+2018-04-12 17:29:20  INFO InvoiceModel:155 - Query getSummaryInvoice: UPDATE tb_invoice SET status= '0', zptransid='0' where invoice_code='1804120001' 
+2018-04-12 17:29:20  INFO InvoiceModel:159 - update invoice status successfully !!!
+2018-04-12 17:30:17  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 17:30:17  INFO AbstractConnector:320 - Stopped ServerConnector@19bbac3{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:30:17  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@216a33d9{/,null,UNAVAILABLE}
+2018-04-12 17:30:23  INFO log:192 - Logging initialized @236ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 17:30:23  INFO WebServer:58 - Start server...
+2018-04-12 17:30:23  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 17:30:23  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-12 17:30:23  INFO AbstractConnector:280 - Started ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:30:23  INFO Server:444 - Started @545ms
+2018-04-12 17:30:28  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-12 17:30:28  INFO CashInController:53 - CashInController.processs, cmd:        transfercashbytype
+2018-04-12 17:30:28  INFO CashInController:54 - CashInController.processs, data:       {"reciever":"0976665272","amount":"1000","transfer_type":"3","machine_name":"VNG"}
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:30:28  INFO local:839 - local: Created a new connection
+2018-04-12 17:30:28  INFO CashInModel:89 - {mtransid=180412_14_1804120002, amount=1000, receiver=0976665272, mid=14, description=Chuyen tien test, mzalopayid=160708000000502, mzalopaypin=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92, reqdate=1523529028778, type=3, mac=310c07942961db797a58b734b60593139a7e1d5159e1b3b5eced346c55d5b0c4}
+2018-04-12 17:30:28  INFO CashInModel:91 - url: https://zalopay.com.vn/cimerchant/transfercashbytype
+2018-04-12 17:30:29  INFO CashInModel:94 - {"zptransid":0,"isprocessing":false,"returncode":-180,"returnmessage":"Merchant chưa cấu hình ip."}
+2018-04-12 17:30:29  INFO InvoiceModel:155 - Query getSummaryInvoice: UPDATE tb_invoice SET status= '0', zptransid='0' where invoice_code='1804120002' 
+2018-04-12 17:30:29  INFO InvoiceModel:159 - update invoice status successfully !!!
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:33:33  INFO local:839 - local: Destroyed connection
+2018-04-12 17:50:28  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 17:50:28  INFO AbstractConnector:320 - Stopped ServerConnector@31b3de85{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:50:28  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
+2018-04-12 17:50:29  INFO log:192 - Logging initialized @291ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-12 17:50:29  INFO WebServer:58 - Start server...
+2018-04-12 17:50:30  INFO Server:372 - jetty-9.4.1.v20170120
+2018-04-12 17:50:30  INFO ContextHandler:791 - Started o.e.j.s.ServletContextHandler@6372e45e{/,null,AVAILABLE}
+2018-04-12 17:50:30  INFO AbstractConnector:280 - Started ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 17:50:30  INFO Server:444 - Started @471ms
+2018-04-12 17:50:41  INFO CashInController:52 - CashInController.processs, pathInfo:   
+2018-04-12 17:50:41  INFO CashInController:53 - CashInController.processs, cmd:        transfercashbytype
+2018-04-12 17:50:41  INFO CashInController:54 - CashInController.processs, data:       {"reciever":"0976665272","amount":"1000","transfer_type":"3","machine_name":"VNG"}
+2018-04-12 17:50:41  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO local:839 - local: Getting connection (user/password): jdbc:mysql://127.0.0.1:3306/cashinmerchant?autoReconnect=true&failOverReadOnly=false&maxReconnects=10&useUnicode=true&characterEncoding=UTF-8&noAccessToProcedureBodies=true
+2018-04-12 17:50:42  INFO local:839 - local: Created a new connection
+2018-04-12 17:50:42  INFO CashInModel:89 - {mtransid=180412_14_1804120003, amount=1000, receiver=0976665272, mid=14, description=Chuyen tien test, mzalopayid=160708000000502, mzalopaypin=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92, reqdate=1523530242195, type=3, mac=5dc70eb3fe1188a973c4088b1949a361b7dedc7bb6501f9ac328cba00825f0dd}
+2018-04-12 17:50:42  INFO CashInModel:91 - url: https://zalopay.com.vn/cimerchant/transfercashbytype
+2018-04-12 17:50:42  INFO CashInModel:94 - {"zptransid":0,"isprocessing":false,"returncode":-180,"returnmessage":"Merchant chưa cấu hình ip."}
+2018-04-12 17:50:42  INFO InvoiceModel:155 - Query getSummaryInvoice: UPDATE tb_invoice SET status= '0', zptransid='0' where invoice_code='1804120003' 
+2018-04-12 17:50:42  INFO InvoiceModel:159 - update invoice status successfully !!!
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 17:53:47  INFO local:839 - local: Destroyed connection
+2018-04-12 18:22:15  INFO ServiceDaemon:30 - Shutdown thread before webserver getinstance
+2018-04-12 18:22:16  INFO AbstractConnector:320 - Stopped ServerConnector@729320ea{HTTP/1.1,[http/1.1]}{0.0.0.0:8181}
+2018-04-12 18:22:16  INFO ContextHandler:932 - Stopped o.e.j.s.ServletContextHandler@6372e45e{/,null,UNAVAILABLE}
